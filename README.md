@@ -1,6 +1,9 @@
 # flutter_app_1
 
-A new Flutter project.
+First Flutter project.
+
+![ss_task1](https://user-images.githubusercontent.com/67699035/129139161-da54cc38-5963-4757-9c44-1a78c13fb15c.png)
+
 
 ## Getting Started
 
