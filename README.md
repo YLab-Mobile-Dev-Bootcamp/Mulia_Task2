@@ -1,6 +1,8 @@
 # task3_flutter
 
-A new Flutter project.
+Task 3-State-Management
+
+![ss_task3](https://user-images.githubusercontent.com/67699035/129483851-eda2389d-ef04-4fd2-a96d-e9269e051431.png)
 
 ## Getting Started
 
