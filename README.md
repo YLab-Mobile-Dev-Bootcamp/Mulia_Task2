@@ -1,8 +1,13 @@
 # task3_flutter
 
 Task 3-State-Management
+Page 1
 
 ![ss_task3](https://user-images.githubusercontent.com/67699035/129483851-eda2389d-ef04-4fd2-a96d-e9269e051431.png)
+
+Page 2
+
+![ss2_task3](https://user-images.githubusercontent.com/67699035/129483897-f750eece-fa77-4100-959a-9abdda26b1d4.png)
 
 ## Getting Started
 
