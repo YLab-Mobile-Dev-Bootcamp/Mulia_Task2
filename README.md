@@ -1,6 +1,7 @@
 # task4_flutter
+App_news
 
-A new Flutter project.
+![ss_task4](https://user-images.githubusercontent.com/67699035/130329029-c0141492-fbd8-4293-ab8b-fa9303516714.png)
 
 ## Getting Started
 
