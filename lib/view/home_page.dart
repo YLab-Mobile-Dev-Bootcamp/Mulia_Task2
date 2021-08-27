@@ -7,6 +7,7 @@ import 'package:task5_uif_lutter/model/product.dart';
 import 'package:task5_uif_lutter/view/detail_page.dart';
 
 class HomePage extends StatelessWidget {
+  HomePage({Key key}) : super(key: key);
   final ProductController productController = Get.put(ProductController());
   @override
   Widget build(BuildContext context) {
